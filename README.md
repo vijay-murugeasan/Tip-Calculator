@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Link
 
-- Live Site URL: [Splitter](https://splittr-tip-calculator.netlify.app/)
+- Live Site URL: [Splitter](https://tip-calculator-gamma-blush.vercel.app/)
 
 ## My process
 
