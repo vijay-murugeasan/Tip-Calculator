@@ -14,7 +14,6 @@ tip = bill * X/100N
 ```To calculate the paid amount per person,using this formulae:
 Amount = bill * (1/N + X/100N)
 ```
-
 ### The challenge
 
 Users should be able to:
